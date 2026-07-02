@@ -1,4 +1,0 @@
-interface:
-  display_name: "Outlook to Apple Calendar"
-  short_description: "Move Outlook events into Apple Calendar"
-  default_prompt: "Use $outlook-to-apple-calendar to transfer Outlook calendar events into Apple Calendar safely."
